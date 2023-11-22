@@ -1,5 +1,12 @@
 ## Project Ttile: Team-Project-Pop-Cart-Marketing-Analysis
 
+**Members**:
+-Shannon Sanders - Group Lead
+-Ralph Vender Orprecio
+-Cherrisse Joy Paggao
+-Jareth Rodillo
+-Ryan Neal Salapa
+
 **Description**:
 
 PopCrt invests a significant amount of money in digital marketing campaigns
