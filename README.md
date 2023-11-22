@@ -19,3 +19,5 @@ advertisement data. The goal was to assist the company in understanding
 which product categories are most popular among different customer segments,
 which campaigns are performing best by gender, and which age groups are most
 likely to engage with marketing content.
+
+**Project Report Presentation**: https://drive.google.com/file/d/1nTU4FN0kUJl1Gnq_5NdC_Qqljd0BXPsp/view?usp=drive_link
